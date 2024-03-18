@@ -18,6 +18,9 @@ The vulnerability was discovered during a routine security review of publicly av
 ## Communication Log
 
 - **First Submission Date**: Fri, Mar 8, 2024
+<p align="center">
+  <img src="1.png" alt="First_Report" width="800" height="300">
+</p>
 - **Acknowledgment Received**: Yes. Fri, Mar 9, 2024
 - **Subsequent Communication**:
 
